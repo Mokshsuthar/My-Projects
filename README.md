@@ -3,10 +3,11 @@
 This section provides a list of projects I have contributed to, along with their respective download links.
 
 <details>
-<summary>Printer App</summary>
+<summary>Printer App </summary>
 
 ### Description
-
+`ios, iPadOS, MacOS`
+     
 Experience a revolutionary printing solution for Mac users! Effortlessly print documents, photos, and webpages on any wireless printer with a single click. This cutting-edge system offers a range of features:
 
 - **Connect & Print**: Seamlessly connect your device to any wireless printer for hassle-free printing.
