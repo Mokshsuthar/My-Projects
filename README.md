@@ -5,6 +5,9 @@ This section provides a list of projects I have contributed to, along with their
 <details>
 <summary>Printer App </summary>
 
+     
+[Download](https://apps.apple.com/in/app/printer-app-smart-iprint-scan/id1576856672)
+     
 ### Description
 `ios, iPadOS, MacOS`
      
@@ -44,8 +47,6 @@ Experience a revolutionary printing solution for Mac users! Effortlessly print d
 
 - **Customer Service**: Receive prioritized customer support, ensuring quick solutions to any issues that may arise. Don't miss out on this opportunity to revolutionize your printing experience!
 
-### Download Links
 
-- [Printer App](https://apps.apple.com/in/app/printer-app-smart-iprint-scan/id1576856672)
 
 </details>
