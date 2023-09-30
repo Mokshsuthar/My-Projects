@@ -462,5 +462,31 @@ The Authenticator app is a highly recommended free 2FA (Two-Factor Authenticatio
 
 </details>
 
+# GitHub Repostries (CocoaPod)
+
+[//]: # (SwiftyUIX)
+
+<details>
+     
+<summary>SwiftyUIX (1.0.3)</summary>
+
+`iOS, MacOS`   [`Visit`](https://github.com/Mokshsuthar/SwiftyUIX)
+
+SwiftyUIX is a powerful and versatile library for iOS and macOS developers that provides a collection of useful extensions and pre-defined views. With SwiftyUIX, you can enhance your development workflow, improve code readability, and accelerate app development by leveraging its handy utilities.
+
+</details>
+
+[//]: # (BlogEasy)
+
+<details>
+     
+<summary>BlogEasy (Working on It)</summary>
+
+`iOS, MacOS`   [`Visit`](https://github.com/Mokshsuthar/BlogEasy)
+
+BlogEasy CocoaPod library, providing iOS and macOS developers with a seamless solution for creating visually appealing blog views with minimal code. This library empowers developers with a wide range of customization options, enabling the creation of aesthetically pleasing content with ease.
+
+</details>
+
 
 
