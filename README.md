@@ -8,11 +8,11 @@ This section provides a list of projects I have contributed to, along with their
 <summary>Printer App </summary>
 
      
-[Download](https://apps.apple.com/in/app/printer-app-smart-iprint-scan/id1576856672)
+[`Download`](https://apps.apple.com/in/app/printer-app-smart-iprint-scan/id1576856672)
      
 ### Description
 `ios, iPadOS, MacOS`
-     
+    
 Experience a revolutionary printing solution for Mac users! Effortlessly print documents, photos, and webpages on any wireless printer with a single click. This cutting-edge system offers a range of features:
 
 - **Connect & Print**: Seamlessly connect your device to any wireless printer for hassle-free printing.
@@ -55,7 +55,7 @@ Experience a revolutionary printing solution for Mac users! Effortlessly print d
 
 <details>
      
-[Download](https://apps.apple.com/in/app/printer-app-smart-iprint-scan/id1599080641)
+[`Download`](https://apps.apple.com/in/app/printer-app-smart-iprint-scan/id1599080641)
 
 <summary> ID-Photo </summary>
 
@@ -99,7 +99,7 @@ It supports printing on AirPrint-compatible printers, and the print size can be 
 
 <details>
      
-[Download](https://apps.apple.com/in/app/printer-app-smart-iprint-scan/id1625466768)
+[`Download`](https://apps.apple.com/in/app/printer-app-smart-iprint-scan/id1625466768)
 
 <summary> Authenticator App </summary>
 
@@ -125,4 +125,119 @@ The Authenticator app is a highly recommended free 2FA (Two-Factor Authenticatio
 
 
 </details>
+
+[//]: # (Keto manager)
+
+<details>
+     
+<summary> Keto Manager: Low Carb Diet </summary>
+
+`iOS, iPadOS, watchOS `   [`Download`](https://apps.apple.com/in/app/printer-app-smart-iprint-scan/id1475764462)
+
+**Keto Manager Overview:**
+
+- Keto Manager is a comprehensive low-carb manager and macro counter tool powered by speech recognition technology.
+- It provides valuable Keto insights and streamlines tracking for effective weight loss.
+
+**Key Features:**
+
+1. **Voice Recognition Technology:**
+   - Enables hands-free tracking, eliminating the need for manual data input.
+
+2. **Automatic Macro and Net Carb Calculator:**
+   - Calculates protein, fat, carbs, and net carbs automatically.
+
+3. **Low-carb Eating Insights:**
+   - Offers valuable information and tips for a successful low-carb high-fat diet.
+
+4. **Exercise Tracking:**
+   - Allows users to monitor their physical activity alongside their dietary habits.
+
+5. **Easy-to-Navigate Design:**
+   - User-friendly interface for seamless navigation and data input.
+
+6. **Weight Management:**
+   - Helps users achieve and maintain their weight loss goals.
+
+7. **Community Connection:**
+   - Facilitates interaction with a supportive Keto community, where users can share experiences, recipes, and success stories.
+
+**Additional Features:**
+
+- **Search, Scan, or Create Meals:**
+   - Easily find, scan, or customize meals for tracking.
+
+- **Diverse Food Database:**
+   - Includes a wide range of common foods, restaurants, groceries, and USDA items.
+
+- **Suitable for Various Diets:**
+   - Beneficial for keto, Paleo, Atkins, Whole30, Balanced, Zone, and bodybuilding diets.
+
+- **Diabetic-Friendly:**
+   - Aids diabetics in carb counting and managing blood sugar levels.
+
+- **Integration with Apple's Health App:**
+   - Pulls weight, height, and date of birth data from the Health app for convenience during account setup.
+
+**Streaks Feature:**
+
+- Sets daily carbohydrate intake goals and tracks progress over time for increased motivation and accountability.
+
+**Join the Keto Community:**
+
+- Connect with like-minded individuals, engage in activity challenges, and share your journey for mutual inspiration and support.
+
+**Start Your Transformation:**
+
+- Download Keto Manager now to kickstart your weight loss journey and achieve your health goals.
+
+</details>
+
+
+[//]: # (Keto manager)
+
+<details>
+     
+<summary> Snore App: Sleep Recording Lab </summary>
+
+`iOS, iPadOS`   [`Download`](https://apps.apple.com/in/app/printer-app-smart-iprint-scan/id1662071479)
+
+**Snore Tracker: Apnea Monitor App Overview:**
+
+- Snore Tracker is a comprehensive app designed to track and analyze snoring patterns for individuals concerned about snoring-related issues.
+
+**Key Features:**
+
+1. **Snore Tracking and Recording:**
+   - Records snoring patterns throughout the night for analysis.
+
+2. **Statistical Reports and Analysis Charts:**
+   - Provides detailed charts and reports to help users understand snoring patterns and intensity.
+
+3. **Snorer Type Identification:**
+   - Offers insights into the type of snorer you are (light, heavy, etc.) based on readings and analysis.
+
+4. **Sleep Timer with Customization:**
+   - Customizable sleep timer plays soothing sounds to help users fall asleep according to their sleep routine.
+
+5. **Variety of Sleep Sounds:**
+   - Allows users to choose from a range of calming sounds to assist in falling asleep.
+
+6. **Insights and Informative Content:**
+   - Provides useful information and tips to help control snoring.
+
+**How Snore Tracker Works:**
+
+- Before tracking, users log their daily activities in a diary.
+- The app records snoring and noise patterns during sleep using the device.
+- Clever noise analysis is applied to detect and compile snoring statistics.
+- Snoring patterns are examined, and users can determine factors influencing their sleep quality and snoring.
+
+**Disclaimer:**
+
+- Snore Tracker: Apnea Monitor app is not a medical device and does not diagnose or treat sleep disorders or any other medical condition.
+- Users are advised to consult a qualified medical professional before making decisions that may impact their well-being, health, or safety.
+
+</details>
+
 
